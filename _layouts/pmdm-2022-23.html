@@ -14,7 +14,7 @@ title: Programación Multimedia y Dispositivos Móviles
 -->
 
 {% for post in site.posts %}
-    {% if post.categories.toString() == "pmdm" %}
+    {% if post.categories.toString() == "pmdm-2022-23" %}
         {% assign currentdate = post.date | date: "%Y" %}
         {% if currentdate != date %}
             {% unless forloop.first %}</ul>{% endunless %}
