@@ -5,7 +5,7 @@ layout: default
 # Teaching
 
 ## Programación Multimedia y Dispositivos Móviles
-*   Projects 2022/23: [Final projects (Mobile App or Videogame)](./_posts/2023-04-21-projects-pmdm-2022-23.md).
+*   Projects 2022/23: [Final projects (Mobile App or Videogame)](./pmdm/pmdm-2022-23.html).
 
 ## Programación + Lenguaje De Marcas
 *   Project 2022/23: Web application to manage recreational activities. Designed together with [Plena Inclusión Zaragoza](http://www.plenainclusionaragon.com/). Technologies used: NodeJS and ReactJS.
