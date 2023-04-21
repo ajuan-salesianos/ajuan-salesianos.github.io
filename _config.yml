@@ -1,6 +1,7 @@
 title: Álvaro Juan Ciriaco
 logo: /assets/img/logo.png
 description: Profesor de Grado Superior DAM
+links: [Link to another page](./another-page.html).
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
