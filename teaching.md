@@ -6,10 +6,10 @@ layout: default
 
 ## Course 2022/23
 ### 1º HV
-*   Módulo: [Programación](./another-page.html).
-*   Módulo: [Lenguaje de Marcas](./another-page.html).
+*   Módulo: [Programación](./teaching.html).
+*   Módulo: [Lenguaje de Marcas](./teaching.html).
 
 ### 2º HV
-*   Módulo: [Programación de Servicios y Procesos](./another-page.html).
-*   Módulo: [Sistemas de Gestión Empresarial](./another-page.html).
-*   Módulo: [Programación Multimedia y Dispositivos Móviles](./another-page.html).
+*   Módulo: [Programación de Servicios y Procesos](./teaching.html).
+*   Módulo: [Sistemas de Gestión Empresarial](./teaching.html).
+*   Módulo: [Programación Multimedia y Dispositivos Móviles](./teaching.html).
